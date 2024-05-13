@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2:2 {
+  background: rgba(93,126,211,1);
+  width: 386px;
+  height: 348px;
+}
